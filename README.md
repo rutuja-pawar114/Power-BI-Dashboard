@@ -1,3 +1,4 @@
+# Power-BI-Dashboard
  Features
 Interactive slicers for date, category, region
 
@@ -15,5 +16,3 @@ Clean, user-friendly UI
  Mobile-optimized layout
 
  Add predictive sales analytics
-
-# Power-BI-Dashboard
